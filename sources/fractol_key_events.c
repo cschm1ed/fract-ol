@@ -125,7 +125,8 @@ static void	modify_color(int keysym, t_ui *ui)
 }
 
 /**
- * shifts - Updates the shift state or party mode based on the pressed key.
+ * shifts - Updates the shift state or party mode used to change the colors
+ * based on the pressed key.
  * @keysym: The pressed key symbol
  * @ui: pointer to the user interface structure
  *
