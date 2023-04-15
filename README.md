@@ -1,5 +1,7 @@
 # Fract-ol: Fractal Exploration and Computer Graphics
 
+mandelbrot.png![grafik](https://user-images.githubusercontent.com/120606421/232233951-3c352607-889e-4e8d-8623-81cfea155b69.png)
+
 Fract-ol is a computer graphics project that focuses on exploring and rendering fractals using the MiniLibX library. By completing this project, I gained valuable experience in creating basic computer graphics, working with complex numbers, understanding the basics of optimization in computer graphics, and handling events.
 
 ## Learning Outcomes
