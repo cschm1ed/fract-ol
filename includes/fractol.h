@@ -6,7 +6,7 @@
 /*   By: cschmied <cschmied@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/19 09:07:50 by cschmied          #+#    #+#             */
-/*   Updated: 2023/03/03 09:40:20 by cschmied         ###   ########.fr       */
+/*   Updated: 2023/04/15 17:14:12 by cschmied         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 # define FRACTOL_H
 
 # include "../mlx/mlx.h"
-# include <keysym.h>
+# include "X11/keysym.h"
 # include <math.h>
 # include <stdlib.h>
 # include <unistd.h>
